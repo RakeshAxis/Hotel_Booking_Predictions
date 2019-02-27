@@ -11,6 +11,7 @@ from sklearn.preprocessing import LabelEncoder , OneHotEncoder
 import matplotlib.pyplot as plot 
 import datetime
 
+#comment
 def initialize(df):
     df['Jan'] = 0 
     df['Feb'] = 0
